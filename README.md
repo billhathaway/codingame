@@ -1,4 +1,4 @@
 codingame
 =========
 
-Solutions to codingame practice sessions
+My solutions to codingame practice sessions using Go
